@@ -10,26 +10,32 @@ DAX → Custom calculations & KPIs
 
 a)YTD Sales Weekly Trend (Line Chart)
 Purpose: Track weekly fluctuations in total sales,    
+
 Insight: Peaks in sales are observed mid-year, with dips highlighting weaker periods.
 
 b)YTD Total Sales by Body Style (Pie Chart)
 Purpose: Compare performance across different body styles (SUV, Hatchback, Sedan, Passenger, Hardtop),   
+
 Insight: SUVs and Sedans dominate sales contribution.
 
 c)YTD Total Sales by Color (Pie Chart),    
 Purpose: Show which car colors drive the most sales
+
 Insight: Pale White and Black are customer favorites.
 
 d)YTD Cars Sold by Dealer Region (Map Chart),     
 Purpose: Visualize sales geographically by dealership location
+
 Insight: Scottsdale and Aurora regions lead in sales performance.
 
 e)Company-Wise Sales Trend (Grid + Bar Visuals),    
 Purpose: Tabular view of company performance
+
 Insight: Chevrolet and Ford lead in sales volume, while BMW/Audi dominate higher price segments.
 
 f)Details Grid (Table),     
 Purpose: Transaction-level data with filters
+
 Insight: Enables granular tracking for dealer performance and auditing.
 
 4)Key Insights-
