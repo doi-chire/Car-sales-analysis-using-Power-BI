@@ -7,6 +7,7 @@ Excel / CSV → Data source for sales records
 DAX → Custom calculations & KPIs
 
 3)Charts Requirement
+
 a)YTD Sales Weekly Trend (Line Chart)
 Purpose: Track weekly fluctuations in total sales
 Insight: Peaks in sales are observed mid-year, with dips highlighting weaker periods.
@@ -41,4 +42,4 @@ Customer Preference: SUVs and Pale White/Black
 
 5)Dashboard Screenshots
 🔹 Sales Overview Dashboard [https://github.com/doi-chire/Car-sales-analysis-using-Power-BI/blob/main/Car%20sales%20dashboard%20.png]
-🔹 Detailed Sales Report
+🔹 Detailed Sales Report [https://github.com/doi-chire/Car-sales-analysis-using-Power-BI/blob/main/Car%20sales%20dashboard%202.png]
