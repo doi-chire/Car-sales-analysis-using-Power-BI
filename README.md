@@ -40,5 +40,5 @@ Top Regions: Scottsdale & Aurora
 Customer Preference: SUVs and Pale White/Black
 
 5)Dashboard Screenshots
-🔹 Sales Overview Dashboard
+🔹 Sales Overview Dashboard [https://github.com/doi-chire/Car-sales-analysis-using-Power-BI/blob/main/Car%20sales%20dashboard%20.png]
 🔹 Detailed Sales Report
