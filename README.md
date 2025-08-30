@@ -1,12 +1,12 @@
-# Car-sales-analysis-using-Power-BI
+# Car-sales-analysis-using-Power-BI-
 1)Objective: The objective of this project is to design and develop a dynamic and interactive Car Sales Dashboard using Power BI. The dashboard will visualize critical KPIs related to our car sales, helping us understand our sales performance over time and make data-driven decisions.
 
-2)Tech Stack
+2)Tech Stack-
 Power BI → Dashboard creation & data visualization
 Excel / CSV → Data source for sales records
 DAX → Custom calculations & KPIs
 
-3)Charts Requirement
+3)Charts Requirement-
 
 a)YTD Sales Weekly Trend (Line Chart)
 Purpose: Track weekly fluctuations in total sales
@@ -32,7 +32,7 @@ f)Details Grid (Table)
 Purpose: Transaction-level data with filters
 Insight: Enables granular tracking for dealer performance and auditing.
 
-4)Key Insights
+4)Key Insights-
 YTD Sales: $371.2M (+23.59% YOY)
 Cars Sold: 13.3K units (+19.73% YOY)
 Avg. Price: $28K (-0.79% YOY)
@@ -40,6 +40,6 @@ Top Company: Chevrolet leads in car sales volume
 Top Regions: Scottsdale & Aurora
 Customer Preference: SUVs and Pale White/Black
 
-5)Dashboard Screenshots
+5)Dashboard Screenshots-
 🔹 Sales Overview Dashboard [https://github.com/doi-chire/Car-sales-analysis-using-Power-BI/blob/main/Car%20sales%20dashboard%20.png]
 🔹 Detailed Sales Report [https://github.com/doi-chire/Car-sales-analysis-using-Power-BI/blob/main/Car%20sales%20dashboard%202.png]
